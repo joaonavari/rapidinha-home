@@ -96,27 +96,27 @@ function App() {
             </div>
             <div className="order-card is-current">
               <div>
-                <span className="muted-label">Pedido #024</span>
-                <h2>Combo natural</h2>
+                <span className="muted-label">Pedido #022</span>
+                <h2>Combo mito</h2>
               </div>
               <span className="status-badge">Preparando</span>
             </div>
             <div className="preview-grid">
               <div>
                 <span className="muted-label">Aluno</span>
-                <strong>3o ano B</strong>
+                <strong>Jair Messias Bolsonaro</strong>
               </div>
               <div>
                 <span className="muted-label">Retirada</span>
-                <strong>10:20</strong>
+                <strong>22:22</strong>
               </div>
               <div>
                 <span className="muted-label">Estoque</span>
-                <strong>12 un.</strong>
+                <strong>22 un.</strong>
               </div>
               <div>
                 <span className="muted-label">Total</span>
-                <strong>R$ 14,50</strong>
+                <strong>R$ 22,00 </strong>
               </div>
             </div>
             <div className="queue-list" aria-label="Proximos pedidos">
