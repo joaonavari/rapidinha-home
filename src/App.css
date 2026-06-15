@@ -63,6 +63,7 @@ a {
   width: 118px;
   height: 58px;
   object-fit: contain;
+  mix-blend-mode: multiply;
 }
 
 .site-nav {
@@ -106,8 +107,7 @@ a {
   width: min(100%, 340px);
   height: auto;
   margin: 0 0 22px;
-  border: 1px solid rgba(222, 222, 228, 0.9);
-  border-radius: 8px;
+  mix-blend-mode: multiply;
 }
 
 .eyebrow,
