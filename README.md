@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# 🚀 Rapidinha
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O **Rapidinha** é uma plataforma desenvolvida para otimizar o atendimento em cantinas e lanchonetes, reduzindo filas e proporcionando uma experiência mais rápida e prática para os usuários.
 
-## Available Scripts
+Através do sistema, os clientes podem selecionar seus produtos antecipadamente, definir o horário de retirada e evitar longos períodos de espera.
 
-In the project directory, you can run:
+## 📌 Sobre o Projeto
 
-### `npm start`
+O Rapidinha nasceu com o objetivo de tornar o processo de compra em cantinas mais eficiente, utilizando tecnologia para agilizar pedidos e melhorar a experiência tanto dos clientes quanto dos estabelecimentos.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Slogan
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+> Quem não gosta de uma rapidinha?
 
-### `npm test`
+## ✨ Funcionalidades
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ⚡ Velocidade
 
-### `npm run build`
+Sistema otimizado para permitir que os usuários realizem pedidos em poucos cliques, reduzindo significativamente o tempo gasto em filas.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🎯 Praticidade
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Interface intuitiva e fácil de utilizar, proporcionando uma experiência simples e agradável para qualquer usuário.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 💡 Inovação
 
-### `npm run eject`
+Uso de tecnologias modernas para solucionar problemas do cotidiano de forma inteligente e eficiente.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Tecnologias Utilizadas
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vercel
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🌐 Demonstração
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Acesse o sistema:
 
-## Learn More
+👉 https://digital-flavor-v2.vercel.app/login
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📂 Estrutura do Projeto
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+src/
+├── App.js
+├── App.css
+└── assets/
+```
 
-### Code Splitting
+## 🚀 Como Executar Localmente
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Clone o repositório
 
-### Analyzing the Bundle Size
+```bash
+git clone https://github.com/seu-usuario/rapidinha.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Acesse a pasta do projeto
 
-### Making a Progressive Web App
+```bash
+cd rapidinha
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Instale as dependências
 
-### Advanced Configuration
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Execute o projeto
 
-### Deployment
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+A aplicação estará disponível em:
 
-### `npm run build` fails to minify
+```bash
+http://localhost:3000
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🎯 Objetivo
+
+O Rapidinha busca reduzir filas em cantinas e estabelecimentos alimentícios por meio de um sistema de pedidos antecipados, permitindo maior organização, rapidez e satisfação dos clientes.
+
+## 👥 Equipe
+
+Projeto desenvolvido para fins acadêmicos e demonstração de conceitos de desenvolvimento web.
+
+## 📄 Licença
+
+Este projeto é destinado a fins educacionais e acadêmicos.
