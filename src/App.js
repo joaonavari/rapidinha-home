@@ -86,6 +86,14 @@ function App() {
               <a className="secondary-action" href="#tecnologia">
                 Conhecer stack
               </a>
+              <a
+                className="external-action"
+                href="https://digital-flavor-v2.vercel.app/login"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Abrir sistema
+              </a>
             </div>
           </div>
 
@@ -96,27 +104,27 @@ function App() {
             </div>
             <div className="order-card is-current">
               <div>
-                <span className="muted-label">Pedido #024</span>
-                <h2>Combo natural</h2>
+                <span className="muted-label">Pedido #022</span>
+                <h2>Combo mito</h2>
               </div>
               <span className="status-badge">Preparando</span>
             </div>
             <div className="preview-grid">
               <div>
                 <span className="muted-label">Aluno</span>
-                <strong>3o ano B</strong>
+                <strong>Jair Messias Bolsonaro</strong>
               </div>
               <div>
                 <span className="muted-label">Retirada</span>
-                <strong>10:20</strong>
+                <strong>22:22</strong>
               </div>
               <div>
                 <span className="muted-label">Estoque</span>
-                <strong>12 un.</strong>
+                <strong>22 un.</strong>
               </div>
               <div>
                 <span className="muted-label">Total</span>
-                <strong>R$ 14,50</strong>
+                <strong>R$ 22,00 </strong>
               </div>
             </div>
             <div className="queue-list" aria-label="Proximos pedidos">
@@ -207,16 +215,16 @@ function App() {
             <h2>Mais eficiencia para a cantina, menos desperdicio para a escola.</h2>
             <p>
               O projeto conversa com consumo responsavel ao usar previsao de pedidos e controle de
-              estoque para reduzir sobra de alimentos. As cores tambem ajudam a leitura: verde para
-              sustentabilidade, azul para operacao, laranja para acao de compra e vermelho para
-              riscos de estoque.
+              estoque para reduzir sobra de alimentos. A home agora segue a prototipagem do
+              documento: vermelho como cor principal, cinza claro para superficies, vinho para
+              identidade e dourado como destaque de apoio.
             </p>
           </div>
           <div className="color-system" aria-label="Sistema de cores do produto">
-            <span className="color-chip green">Sustentabilidade</span>
-            <span className="color-chip blue">Operacao</span>
-            <span className="color-chip orange">Compra</span>
-            <span className="color-chip red">Risco</span>
+            <span className="color-chip red">Vermelho principal</span>
+            <span className="color-chip soft">Cinza claro</span>
+            <span className="color-chip wine">Vinho do logo</span>
+            <span className="color-chip gold">Dourado de apoio</span>
           </div>
         </section>
       </main>
