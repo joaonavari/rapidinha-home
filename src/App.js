@@ -119,7 +119,7 @@ function App() {
             <div className="preview-grid">
               <div>
                 <span className="muted-label">Aluno</span>
-                <strong>Jair Messias Bolsonaro</strong>
+                <strong>Luiz Lindinho</strong>
               </div>
               <div>
                 <span className="muted-label">Retirada</span>
