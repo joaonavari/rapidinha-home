@@ -19,7 +19,10 @@ function App() {
         <section className="hero">
           <h1>Bem-vindo ao Projeto Rapidinha</h1>
           <p>A solução ágil, prática e direta ao ponto para facilitar o seu dia a dia.</p>
-          <button className="cta-button">Conheça o Projeto</button>
+          <button className="cta-button" onClick={() => 
+            window.open('https://digital-flavor-v2.vercel.app/login', '_blank')}>
+            Conheça o Projeto
+          </button>
         </section>
 
         <section id="funcionalidades" className="features">
