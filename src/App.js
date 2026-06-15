@@ -55,12 +55,14 @@ const stack = [
   'Playwright',
 ];
 
+const logoPath = `${process.env.PUBLIC_URL}/rapidinha-logo.jpeg`;
+
 function App() {
   return (
     <div className="home-container">
       <header className="site-header">
         <a className="brand" href="#inicio" aria-label="Rapidinha inicio">
-          Rapidinha
+          <img className="brand-logo" src={logoPath} alt="" />
         </a>
         <nav className="site-nav" aria-label="Navegacao principal">
           <a href="#sobre">Sobre</a>
@@ -73,6 +75,11 @@ function App() {
       <main>
         <section id="inicio" className="hero-section">
           <div className="hero-copy">
+            <img
+              className="hero-logo"
+              src={logoPath}
+              alt="Rapidinha - Pedidos Rapidos na Cantina"
+            />
             <p className="eyebrow">Sistema de cantina digital</p>
             <h1>Pedidos antecipados para cantinas escolares.</h1>
             <p className="hero-text">

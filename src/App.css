@@ -55,11 +55,14 @@ a {
 
 .brand {
   flex: 0 0 auto;
-  color: var(--wine);
-  font-size: 1.35rem;
-  font-weight: 800;
-  letter-spacing: 0;
   text-decoration: none;
+}
+
+.brand-logo {
+  display: block;
+  width: 118px;
+  height: 58px;
+  object-fit: contain;
 }
 
 .site-nav {
@@ -96,6 +99,15 @@ a {
 
 .hero-copy {
   max-width: 760px;
+}
+
+.hero-logo {
+  display: block;
+  width: min(100%, 340px);
+  height: auto;
+  margin: 0 0 22px;
+  border: 1px solid rgba(222, 222, 228, 0.9);
+  border-radius: 8px;
 }
 
 .eyebrow,
@@ -541,6 +553,11 @@ a {
     position: static;
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .brand-logo {
+    width: 108px;
+    height: 54px;
   }
 
   .site-nav {
