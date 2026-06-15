@@ -1,6 +1,7 @@
 {
   "name": "rapidinha-home",
   "version": "0.1.0",
+  "homepage": "https://joaonavari.github.io/rapidinha-home",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
