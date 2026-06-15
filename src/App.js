@@ -88,7 +88,7 @@ function App() {
               </a>
               <a
                 className="external-action"
-                href="https://digital-flavor-v2.vercel.app/login"
+                href="https://digital-flavor-k4qj9tdeg-luiz192512s-projects.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
