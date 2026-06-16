@@ -95,7 +95,7 @@ function App() {
               </a>
               <a
                 className="external-action"
-                href="https://digital-flavor-k4qj9tdeg-luiz192512s-projects.vercel.app/"
+                href="https://luiz192512.github.io/rapidinha/"
                 target="_blank"
                 rel="noreferrer"
               >
