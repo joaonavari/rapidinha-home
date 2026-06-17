@@ -54,7 +54,8 @@ src/
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/rapidinha.git
+git clone https://github.com/joaonavari/rapidinha-home.git
+
 ```
 
 ### Acesse a pasta do projeto
@@ -86,6 +87,12 @@ http://localhost:3000
 O Rapidinha busca reduzir filas em cantinas e estabelecimentos alimentícios por meio de um sistema de pedidos antecipados, permitindo maior organização, rapidez e satisfação dos clientes.
 
 ## 👥 Equipe
+
+- **João Vitor Navari Elias Santos** - RA: 25001664-2
+- **João Vitor Bolognezi Portela** - RA: 25356828-2
+- **Anthony Vinícius Gomes Oliveira** - RA: 25127235-2
+- **Luiz Gustavo Lorençone Enz** - RA: 25355642-2
+- **Lucas França Peloi** - RA: 25000946-2
 
 Projeto desenvolvido para fins acadêmicos e demonstração de conceitos de desenvolvimento web.
 
